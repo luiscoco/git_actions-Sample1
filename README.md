@@ -1,5 +1,7 @@
 # git_actions-Sample1
 
+To look for help about GitHub actions to the URL: https://docs.github.com/en/actions
+
 This is a simple git actions example:
 
 ```yaml
